@@ -1,6 +1,6 @@
 SUBTASK 1: Investigating GitHub and GitLab 
 Core Distinction in Licensing Approaches
-The core distinction lies in their development models and licensing:
+The core distinction lies in their development models and licensing
 •	GitHub is a proprietary, closed-source platform owned by Microsoft. Its source code is not publicly available, and it operates as a commercial service. While GitHub offers free tiers for public and private repositories, the underlying platform is not open-source.
 •	GitLab is an open-source platform (Community Edition) released under the MIT License. Its source code is publicly available, and anyone can view, modify, and self-host GitLab on their own servers. GitLab also offers a proprietary Enterprise Edition with additional features.
 Common Features 
